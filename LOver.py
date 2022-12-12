@@ -8,13 +8,9 @@ choice = input("")
 
 if choice == "yes":
     print("OK")
+    call(["python", "L0ver.py"])
+    time.sleep(1)
     
 if choice == "no":
-  call(["python", ".py"])
+  call(["python", "Random.py"])
   time.sleep(1)
-  
-  
-  
-
-call(["python", "PS.py"])
-time.sleep(1)
