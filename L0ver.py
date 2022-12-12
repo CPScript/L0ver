@@ -1,7 +1,9 @@
 import time
 from subprocess import call
+from os import system
+import os
 
-
+os.system(delet)
 print(DO YOU LOVE YOUR PC??????)
 print("Yes/No")
 choice = input("")
