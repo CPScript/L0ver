@@ -2,7 +2,7 @@ import time
 from subprocess import call
 
 
-print(DO YOU LOVE YOUR PC?)
+print("DO YOU LOVE YOUR PC?")
 print("Yes/No")
 choice = input("")
 
